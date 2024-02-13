@@ -8,3 +8,8 @@ The third tile set maps the location of hospitals in Seattle area in a darker mo
 The fourth tile set maps the Seattle in a special theme I called the sunset theme. In this theme, the roads are way easier to spot because of their color. The map is made up only blue and yellow, making the hospital locations way easier to tell while making other components like location and parks easier to see, too. 
 
 **url to the map**:[tile maps](https://ychen21.github.io/Geoge458Lab4MapTiles/)
+**Screenshots of the four tile maps**:
+![tile 1](img/tile1.png)
+![tile 2](img/tile2.png)
+![tile 3](img/tile3.png)
+![tile 4](img/tile4.png)
